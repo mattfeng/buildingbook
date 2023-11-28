@@ -3,13 +3,14 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to The Synthetic Biology Book's documentation!
-======================================================
+Welcome to The Building Book!
+=============================
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :caption: Contents
 
+   fluidics/index.md
 
 
 Indices and tables
